@@ -73,6 +73,7 @@ Even though validation accuracy increased when compared with 1st and 2nd models,
 
 # References
 - https://keras.io/guides/
+- https://towardsdatascience.com/
 - https://www.tensorflow.org/tutorials/images/data_augmentation
 - https://augmentor.readthedocs.io/en/stable/
 
